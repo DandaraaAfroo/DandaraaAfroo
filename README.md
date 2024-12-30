@@ -1,4 +1,4 @@
-## Olá! Sou a Dandara, amante de tecnologias, programação e um bom café ☕
+## Olá! Sou a Dandara, amante de tecnologia, programação e um bom café ☕
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5f583513-8740-48ef-b98b-b3a32146417b" alt="Dandara Medeiros" width="800px"/>
