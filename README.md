@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/876c9d80-58e9-4062-8eca-a344a2f4ceb7" alt="Dandara Medeiros" width="800px"/>
+  <img src="https://github.com/user-attachments/assets/5f583513-8740-48ef-b98b-b3a32146417b" alt="Dandara Medeiros" width="800px"/>
 </p>
 
 <center>
