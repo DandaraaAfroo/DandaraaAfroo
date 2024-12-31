@@ -18,6 +18,16 @@
 </table>
 </center>
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Dandara-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Dandara-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dandara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Dandara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Dandara-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+</div>
+  
+  ##
+
 ### Quem sou eu?
 
 📷 Meu nome é Dandara Medeiros, tenho 23 anos e sou de São Paulo. Minha jornada com a tecnologia começou aos 14 anos, quando descobri seu potencial transformador por meio de um trabalho voluntário na minha comunidade.
