@@ -1,6 +1,6 @@
 <div align="center">
 
-## Olá! Sou a Dandara, amante de tecnologia, programação e um bom café ☕
+## Olá! Sou medeiros, amante de tecnologia, programação e um bom café ☕
 
 </div>
 
