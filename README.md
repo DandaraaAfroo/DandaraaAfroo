@@ -30,7 +30,7 @@
 
 ### Quem sou eu?
 
-📷 Meu nome é Dandara Medeiros, tenho 23 anos e sou de São Paulo. Minha jornada com a tecnologia começou aos 14 anos, quando descobri seu potencial transformador por meio de um trabalho voluntário na minha comunidade.
+📷 Meu nome é Medeiros, tenho 24 anos e sou de São Paulo. Minha jornada com a tecnologia começou aos 14 anos, quando descobri seu potencial transformador por meio de um trabalho voluntário na minha comunidade.
 
 🖥️ Aos 16 anos, iniciei um curso técnico em Análise e Desenvolvimento de Sistemas, explorando diversas áreas de tecnologia. Em 2020, durante meu estágio em redes, aprendi sobre configuração e mapeamento de redes, controle de tecnologias emergentes e elaboração de relatórios técnicos.
 
@@ -55,7 +55,7 @@
 | [![Linkedin Badge](https://img.shields.io/badge/-Dandara%20Medeiros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dandaramedeiros/)](https://www.linkedin.com/in/dandaramedeiros/) | [![Gmail Badge](https://img.shields.io/badge/-dandarad196@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dandarad196@gmail.com)](mailto:dandarad196@gmail.com) | [![GitHub Badge](https://img.shields.io/badge/-DandaraaAfroo-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/DandaraaAfroo)](https://github.com/DandaraaAfroo) |
 | :-------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
 
-Feito com ❤️ por Dandara Medeiros👋🏽 [Entre em contato!](https://www.linkedin.com/in/dandaramedeiros/)
+Feito com ❤️ por Medeiros👋🏽 [Entre em contato!](https://www.linkedin.com/in/dandaramedeiros/)
 
 ---
 
